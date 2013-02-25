@@ -18,7 +18,7 @@ module.exports = {
     "shadows-into-light": {
       "fontFamily": "Shadows Into Light",
       "fontStyle": "normal",
-      "fontWeight": "700",
+      "fontWeight": "400",
       "local": [ "Shadows Into Light", "ShadowsIntoLight" ]
     }
   }
