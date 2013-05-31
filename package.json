@@ -1,19 +1,29 @@
 {
   "Author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
   "name": "connect-fonts-shadows-into-light",
-  "description": "ShadowsIntoLight font set for connect-fonts",
-  "keywords": ["font", "font-face", "CSS", "ShadowsIntoLight", "connect-fonts"],
+  "description": "Shadows Into Light font pack for connect-fonts",
+  "keywords": ["font", "font-face", "CSS", "connect-fonts", "shadowsintolight"],
   "homepage": "https://github.com/shane-tomlinson/connect-fonts-shadows-into-light",
+  "licenses": [
+    {
+      "covers": "software",
+      "type": "MPL-2.0",
+      "url": "http://mozilla.org/MPL/2.0/"
+    },
+    {
+      "covers": "fonts",
+      "type": "OFL-1.1",
+      "url": "http://scripts.sil.org/OFL"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shane-tomlinson/connect-fonts-shadows-into-light.git"
+    "url": "https://github.com/shane-tomlinson/connect-fonts-shadows-into-light"
   },
-  "bugs": {
-    "url": "https://github.com/shane-tomlinson/connect-fonts-shadows-into-light/issues"
-  },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "node": ">= 0.4.7"
   },
   "main": "index"
 }
+
