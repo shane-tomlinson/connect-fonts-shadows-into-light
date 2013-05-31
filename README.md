@@ -24,12 +24,12 @@ const font_pack  = require("connect-fonts-shadows-into-light");
 
 4. Add a link tag to include the font CSS.
 ```html
-<link href="/shadows-into-light/fonts.css" type="text/css" rel="stylesheet"/ >
+<link href="/shadowsintolight/fonts.css" type="text/css" rel="stylesheet"/ >
 ```
 
 
 Available fonts:
-* shadows-into-light
+* shadowsintolight
 
 Locale-optimised font sets can be served by specifying the locale in the fonts.css URL.
 ```html
@@ -38,6 +38,7 @@ Locale-optimised font sets can be served by specifying the locale in the fonts.c
 
 Available subsets:
 * latin
+* en
 
 5. Set your CSS up to use the new font by using the "Shadows Into Light" font-family.
 ```
@@ -52,7 +53,7 @@ Shadows Into Light
 * Description: Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)
 * Copyright: Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)
 * Designer: Kimberly Geswein
-* Designer URL: http://kimberlygeswein.com
+* Designer URL: http://kimberlygeswein.com 
 * Vendor: Kimberly Geswein
 
 ## Development Info

@@ -10,7 +10,7 @@ module.exports = {
     "repourl": "https://github.com/shane-tomlinson/connect-fonts-shadows-into-light",
     "bugsurl": false
   },
-
+  
   // Package author info
   "author": {
     "name": "Shane Tomlinson",
@@ -19,7 +19,7 @@ module.exports = {
     "githubs": "https://github.com/shane-tomlinson,https://github.com/stomlinson",
     "twitter": "@shane_tomlinson"
   },
-
+  
   // package license info
   "license": {
     "name": "SIL Open Font License",
@@ -42,7 +42,7 @@ module.exports = {
 
 
   // where to find a locale's fonts in the fonts directory
-  "locale-to-subdirs": {
+  "locale-to-subdirs": { 
   },
 
   // what font types are enabled and what are the extensions of
@@ -54,7 +54,7 @@ module.exports = {
   // The fonts. The name of the font must be the same as the font
   // in the fonts directory.
   "fonts": {
-      "shadows-into-light": {
+      "shadowsintolight": {
         "fontFamily": "Shadows Into Light",
         "fontStyle": "normal",
         "fontWeight": "400",
